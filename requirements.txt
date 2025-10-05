@@ -1,1 +1,10 @@
 streamlit
+pandas
+numpy
+scikit-fuzzy
+rasterio
+pillow
+requests
+owslib
+scipy
+scikit-learn
